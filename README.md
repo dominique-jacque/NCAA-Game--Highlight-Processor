@@ -80,7 +80,8 @@ Terraform scripts automate the creation of AWS resources such as S3 buckets, IAM
 
 ## Architectural Diagram
 
-![image](https://github.com/user-attachments/assets/1e8ba52a-1cad-4867-bb4a-9a1782c364ee)
+![Screenshot 2025-02-05 204705](https://github.com/user-attachments/assets/50892af9-d626-4d73-82ba-feef8971ec20)
+
 
 ## Prerequisites
 
